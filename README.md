@@ -12,7 +12,8 @@ node js v5 or above and npm
 4. Run Cypress with `./node_modules/.bin/cypress open`
 
 ## Running the tests
- Simply run the cypress and select the tests file
+Simply run the cypress and select the tests file
+Don't forget to declare your username and password in config.js file (non two FA Accounts)
 
 
 ## Docs
