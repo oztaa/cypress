@@ -18,7 +18,3 @@ Don't forget to declare your username and password in config.js file (non two FA
 
 ## Docs
 https://docs.cypress.io
-
-
-
-
