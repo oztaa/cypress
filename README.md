@@ -1,10 +1,8 @@
 # Cypress
 
-
 ### Prerequisites
 
-1.node js v5 or above
-2.npm
+node js v5 or above and npm
 
 ### Installing
 
