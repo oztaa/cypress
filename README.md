@@ -3,8 +3,8 @@
 
 ### Prerequisites
 
-node js v5 or above
-npm
+1.node js v5 or above
+2.npm
 
 ### Installing
 
